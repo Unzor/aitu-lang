@@ -1,6 +1,11 @@
 # aitu-lang
 Aitu - an unreadable "programming language" that is usable for every programming language
 
+# Installation
+(NOTE: npm package not released, coming soon)
+```
+npm install -g aitu-lang
+```
 # Usage
 To run a file:
 ```
