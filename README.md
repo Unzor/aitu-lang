@@ -1,5 +1,5 @@
 # aitu-lang
-Aitu - a "programming language" that is usable for every programming language
+Aitu - an unreadable "programming language" that is usable for every programming language
 
 # Usage
 To run a file:
