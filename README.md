@@ -14,7 +14,7 @@ You can also add CLI arguments:
 ```
 aitu node argv.aitu --test
 ```
-To add arguments before the file:
+To add arguments/subcommands before the file:
 ```
 aitu "node --print-bytecode" argv.aitu --test
 ```
